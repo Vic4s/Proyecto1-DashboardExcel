@@ -11,7 +11,7 @@ Proyecto1-DashboardExcel/
 ├── DATOS/ # Carpeta para los datos en bruto y limpios 
 │       ├── BlinkIT_Grocery_Data.xlsx # Datos originales 
 │       └── BlinkIT_Grocery_Data - Datos_Limpios.xlsx # Datos limpios 
-│
+├── src/ # Carpeta para las imagenes utilizadas en el readme 
 └── README.md # Archivo de documentación del proyecto
 ```
 
